@@ -1,4 +1,4 @@
-# Handwitten digit classification
+# Handwritten digit classification
 
 Made by Bolohan Marian Cristian
 
